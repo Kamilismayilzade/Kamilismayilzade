@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/185465/screenshots/1850622/bipolare_gif.gif)]
+[![MasterHead]]
 
 <h1 align="center">Hi 👋, I'm Kamil</h1>
 <h3 align="center">A passionate frontend developer</h3>
