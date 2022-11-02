@@ -6,9 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamilismayilzade&label=Profile%20views&color=0e75b6&style=flat" alt="kamilismayilzade" /> </p>
 
-- 🌱 I’m currently learning **React Js**
+ Here i will show you my progress and growth in learning of programming and at the same time i will share them here...
+ 
+ ⚪️ I am interested in learning **FrontEnd development**.
+ 
+ ⚪️ Currently i am learning the **React Js**.
+ 
+ ⚪️ You can ssk me about **HTML, CSS/Tailwind, JavaScript, C#**
 
-- 💬 Ask me about **HTML, CSS/Tailwind, JavaScript, C#**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
