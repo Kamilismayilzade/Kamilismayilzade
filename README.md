@@ -4,7 +4,6 @@
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://archeyes.com/wp-content/uploads/2016/04/7.-Petronas-Towers600.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamilismayilzade&label=Profile%20views&color=0e75b6&style=flat" alt="kamilismayilzade" /> </p>
 
  Here i will show you my progress and growth in learning of programming and at the same time i will share them here...
  
