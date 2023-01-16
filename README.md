@@ -9,7 +9,7 @@
  
  ⚪️ Currently i am learning the **React Js**.
  
- ⚪️ You can ask me about **HTML, CSS/Tailwind, JavaScript, C#**
+ ⚪️ You can ask me about **HTML, CSS/Tailwind, JavaScript/TypeScript, C#**
 
 
 <h3 align="left">Languages and Tools:</h3>
